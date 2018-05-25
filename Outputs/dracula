@@ -1,0 +1,1728 @@
+    0: EBook
+    0: Dracula
+    2: eBook
+    5: eBook
+    8: Dracula
+   12: EBook
+   18: EBOOK
+   18: DRACULA
+   33: DRACULA
+   50: Harker's
+   51: Harker's
+   52: Harker's
+   53: Harker's
+   54: Westenra
+   55: Murray's
+   56: Dailygraph
+   57: Murray's
+   58: Harker
+   58: Westenra
+   59: Holmwood
+   60: Westenra's
+   61: Seward's
+   62: Seward's
+   63: Harker's
+   64: Seward's
+   65: Seward's
+   66: Seward's
+   67: Seward's
+   68: Harker's
+   69: Harker's
+   70: Seward's
+   71: Harker's
+   72: Seward's
+   73: Seward's
+   74: Seward's
+   75: Seward's
+   76: Harker's
+   84: Harker's
+   86: Bistritz
+   98: Klausenburgh
+   99: Royale
+  102: hendl
+  122: Dracula
+  123: Ordance
+  123: Bistritz
+  124: Dracula
+  129: Wallachs
+  130: Dacians
+  130: Magyars
+  131: Szekelys
+  133: Magyars
+  150: mamaliga
+  151: impletata
+  159: unpunctual
+  181: Slovaks
+  191: Bistritz
+  193: Borgo
+  200: Dracula
+  210: Harker
+  213: shirtsleeves
+  219: Borgo
+  222: Dracula
+  236: Dracula
+  303: Bistritz
+  310: Mediasch
+  326: Ordog
+  326: Pokol
+  326: stregoica
+  326: vrolok
+  327: vlkoslak
+  328: Servian
+  351: boxseat
+  351: gotza
+  366: hillsides
+  369: Borgo
+  369: Prund
+  374: Hospadars
+  386: rifts
+  392: Isten
+  392: szek
+  398: Cszeks
+  398: slovaks
+  409: leiter
+  409: peasants's
+  412: Cszeks
+  413: Slovaks
+  413: sheepskins
+  421: greyness
+  422: bestrewed
+  447: Borgo
+  452: Bistritz
+  499: Burger's
+  501: Todten
+  501: reiten
+  501: Schnell
+  505: Herr's
+  563: tamers
+  655: Harker's
+  682: solicitor's
+  684: Solicitor's
+  724: Dracula
+  726: Dracula
+  727: Harker
+  756: Count's
+  821: protruberant
+  826: Count's
+  848: supped
+  857: hangings
+  858: costliest
+  869: Count's
+  943: talking's
+  957: Wallachian
+  991: Bradshaw's
+ 1001: Harker
+ 1003: Harker
+ 1008: Purfleet
+ 1014: Purfleet
+ 1046: voluptuousness
+ 1085: Dracula
+ 1112: Count's
+ 1116: Count's
+ 1170: Harker's
+ 1203: Bistritz
+ 1215: Dracula
+ 1236: Szekelys
+ 1239: Wodin
+ 1240: Berserkers
+ 1240: seaboards
+ 1251: Arpad
+ 1253: Honfoglalas
+ 1254: Szekelys
+ 1255: Magyars
+ 1256: Turkeyland
+ 1261: Cassova
+ 1263: Voivode
+ 1264: Dracula
+ 1266: Dracula
+ 1268: Turkeyland
+ 1274: Mohacs
+ 1275: Dracula
+ 1277: Szekelys
+ 1277: Dracula
+ 1279: Hapsburgs
+ 1279: Romanoffs
+ 1297: Lincoln's
+ 1298: Count's
+ 1341: consignments
+ 1370: Hawkins'
+ 1372: Dracula
+ 1399: Billington
+ 1400: Leutner
+ 1401: Coutts
+ 1401: Herren
+ 1401: Billreuth
+ 1447: Count's
+ 1448: mullioned
+ 1453: Count's
+ 1488: Count's
+ 1510: fastnesses
+ 1516: curtainless
+ 1550: Count's
+ 1555: Count's
+ 1582: sapphires
+ 1589: Mina's
+ 1593: waterglasses
+ 1612: gloating
+ 1612: voluptuousness
+ 1632: champing
+ 1682: Harker's
+ 1712: suavest
+ 1716: Bistritz
+ 1727: Bistritz
+ 1740: Szgany
+ 1756: Mina's
+ 1773: Szgany
+ 1822: horses'
+ 1824: leiter
+ 1833: Szgany
+ 1839: leiter
+ 1840: Slovaks
+ 1844: Slovaks
+ 1844: Szgany
+ 1853: Szgany
+ 1860: Count's
+ 1873: criminal's
+ 1875: Count's
+ 1905: Count's
+ 1922: violences
+ 1969: calf's
+ 1983: Count's
+ 2018: Slovaks
+ 2040: Count's
+ 2059: Szgany
+ 2060: Slovaks
+ 2061: Borgo
+ 2062: Bistritz
+ 2063: Dracula
+ 2099: champing
+ 2105: Count's
+ 2118: Dracula
+ 2156: Count's
+ 2158: Count's
+ 2174: gouts
+ 2178: gorged
+ 2210: Szgany
+ 2210: Slovaks
+ 2212: Count's
+ 2224: lintels
+ 2239: Szgany
+ 2264: WESTENRA
+ 2274: Jonathan's
+ 2314: WESTENRA
+ 2335: Holmwood
+ 2343: Holmwood
+ 2387: WESTENRA
+ 2402: goodness'
+ 2456: Desdemona
+ 2482: fixin's
+ 2521: Morris'
+ 2579: SEWARD'S
+ 2597: Omnia
+ 2597: Romae
+ 2597: venalia
+ 2601: Renfield
+ 2614: QUINCEY
+ 2614: HOLMOOD
+ 2638: Quincey
+ 2644: HOLMWOOD
+ 2644: QUINCEY
+ 2660: MURRAY'S
+ 2674: Marmion
+ 2681: Kettleness
+ 2721: masel'
+ 2723: trippers
+ 2723: an'
+ 2725: eatin'
+ 2725: herrin's
+ 2725: drinkin'
+ 2726: an'
+ 2726: lookin'
+ 2727: masel'
+ 2727: tellin'
+ 2735: ageeanwards
+ 2736: waitin'
+ 2737: crammle
+ 2737: aboon
+ 2737: grees
+ 2738: sairly
+ 2771: an'
+ 2771: wafts
+ 2771: an'
+ 2771: an'
+ 2771: an'
+ 2772: bogles
+ 2772: an'
+ 2772: an'
+ 2773: a'belderin'
+ 2773: blebs
+ 2773: an'
+ 2773: an'
+ 2774: an'
+ 2774: warnin's
+ 2774: an'
+ 2774: illsome
+ 2774: an'
+ 2775: touters
+ 2775: skeer
+ 2775: an'
+ 2775: hafflin's
+ 2775: an'
+ 2776: somethin'
+ 2777: printin'
+ 2778: an'
+ 2778: preachin'
+ 2778: cuttin'
+ 2780: steans
+ 2780: holdin'
+ 2781: tumblin'
+ 2782: body'
+ 2783: an'
+ 2783: bean't
+ 2784: an'
+ 2784: bean't
+ 2785: nothin'
+ 2786: scowderment
+ 2787: tumblin'
+ 2787: sarks
+ 2787: jouped
+ 2788: an'
+ 2788: trying'
+ 2788: tombsteans
+ 2789: trimmlin'
+ 2789: an'
+ 2790: dozzened
+ 2790: an'
+ 2790: lyin'
+ 2791: gurp
+ 2797: Swales
+ 2800: Yabblins
+ 2800: savin'
+ 2803: an'
+ 2804: kirkgarth
+ 2810: consate
+ 2810: steans
+ 2810: aboon
+ 2811: haped
+ 2811: an'
+ 2812: laybeds
+ 2813: Dun's
+ 2816: aftest
+ 2819: Spencelagh
+ 2820: Andres
+ 2821: Swales
+ 2824: Andres
+ 2824: An'
+ 2824: consated
+ 2827: steans
+ 2828: Braithwaite
+ 2830: Woodhouse
+ 2834: antherums
+ 2834: aboot
+ 2835: jommlin'
+ 2835: jostlin'
+ 2837: an'
+ 2837: tryin'
+ 2857: thruff
+ 2862: Kettleness
+ 2863: sorrowing
+ 2864: Swales
+ 2868: gawm
+ 2869: sorrowin'
+ 2870: acrewk'd
+ 2870: lamiter
+ 2870: an'
+ 2871: mightn't
+ 2873: scarin'
+ 2874: clegs
+ 2874: dowps
+ 2876: masel'
+ 2877: an'
+ 2878: stean
+ 2880: keckle
+ 2880: pantin'
+ 2880: grees
+ 2881: tompstean
+ 2888: an'
+ 2889: sittin'
+ 2890: an'
+ 2890: an'
+ 2892: scart
+ 2893: tombsteans
+ 2910: donkeys'
+ 2919: SEWARD'S
+ 2921: Renfield
+ 3020: Renfield
+ 3033: Renfield
+ 3034: disgorged
+ 3039: Renfield
+ 3059: Burdon
+ 3059: Sanderson's
+ 3059: Ferrier's
+ 3084: MURRAY'S
+ 3094: Dracula
+ 3102: Westenra
+ 3108: Lucy's
+ 3116: Holmwood
+ 3116: Holmwood
+ 3117: Godalming
+ 3134: Lucy's
+ 3134: Holmwood
+ 3164: Kettleness
+ 3167: sandpoints
+ 3173: walking'
+ 3175: Swales
+ 3187: sayin'
+ 3189: daffled
+ 3190: krok
+ 3190: hooal
+ 3191: scart
+ 3192: makin'
+ 3193: dyin'
+ 3196: whettin'
+ 3197: caffin'
+ 3198: chafts
+ 3199: dooal
+ 3199: an'
+ 3202: waitin'
+ 3202: somethin'
+ 3202: doin'
+ 3203: comin'
+ 3204: comin'
+ 3204: comin'
+ 3204: lookin'
+ 3205: wonderin'
+ 3206: bringin'
+ 3208: hoast
+ 3208: beyont
+ 3209: comin'
+ 3212: minutes'
+ 3234: DAILYGRAPH
+ 3237: MURRAY'S
+ 3244: suddenest
+ 3249: Mulgrave
+ 3249: Runswick
+ 3249: Staithes
+ 3256: tails'
+ 3268: Kettleness
+ 3274: Storm'
+ 3301: dischord
+ 3312: lanthorns
+ 3334: skywards
+ 3374: mirabile
+ 3383: unsteered
+ 3393: hammer'
+ 3399: laneway
+ 3400: thruffsteans
+ 3438: Caffyn
+ 3454: emblemship
+ 3460: Casabianca
+ 3478: Billington
+ 3488: wonder'
+ 3545: flagboat
+ 3562: Petrofsky
+ 3563: larboard
+ 3564: Amramoff
+ 3571: Olgaren
+ 3578: hatchways
+ 3590: unsearched
+ 3643: Roumanian
+ 3741: sea'
+ 3745: MURRAY'S
+ 3785: Swales
+ 3831: MURRAY'S
+ 3839: tea'
+ 3848: Westenra
+ 3852: curates
+ 3857: Holmwood
+ 3875: Lucy's
+ 3920: Lucy's
+ 3969: chruchyard
+ 4012: Mulgrave
+ 4013: Westenra
+ 4018: Spohr
+ 4056: Kettleness
+ 4073: Lucy's
+ 4084: Lucy's
+ 4106: Arthur's
+ 4115: Lucy's
+ 4122: Lucy's
+ 4146: BILLINGTON
+ 4153: Purfleet
+ 4153: King's
+ 4162: King's
+ 4164: King's
+ 4180: BILLINGTON
+ 4185: BILLINGTON
+ 4201: MURRAY'S
+ 4219: Swales
+ 4274: WILLHELMINA
+ 4280: Harker
+ 4287: weeks'
+ 4317: safety's
+ 4322: SEWARD'S
+ 4324: Renfield
+ 4350: Renfield
+ 4371: draweth
+ 4387: Renfield
+ 4415: Renfield's
+ 4437: manias
+ 4466: HARKER
+ 4466: WESTENRA
+ 4545: will'
+ 4590: Harker
+ 4594: WESTENRA
+ 4594: HARKER
+ 4623: SEWARDS
+ 4625: Renfield
+ 4683: Renfield
+ 4705: WESTENRA'S
+ 4707: Hillingham
+ 4743: Westenra
+ 4751: Hillingham
+ 4753: Westenra
+ 4761: HOLMWOOD
+ 4766: tonight's
+ 4770: HOLMWOOD
+ 4776: Westenra's
+ 4787: Westenra
+ 4795: Westenra
+ 4838: Westenra
+ 4850: kindliest
+ 4855: Westenra
+ 4866: DPh
+ 4891: HOLMWOOD
+ 4897: Hillingham
+ 4898: Lucy's
+ 4931: Lucy's
+ 4977: SEWARD'S
+ 5001: nailmarks
+ 5028: Westenra
+ 5053: paroxysms
+ 5076: Holmwood
+ 5085: HOLMWOOD
+ 5094: Westenra
+ 5100: Lucy's
+ 5112: SEWARD'S
+ 5120: Westenra
+ 5166: Lucy's
+ 5172: Westenra
+ 5174: beneficient
+ 5189: Lucy's
+ 5192: chalkily
+ 5194: Helsing's
+ 5269: Lucy's
+ 5290: defibrinate
+ 5294: Lucy's
+ 5294: Arthur's
+ 5298: Lucy's
+ 5317: Helsing's
+ 5373: SEWARD'S
+ 5380: Westenra
+ 5381: poohed
+ 5434: Hillingham
+ 5440: Hillingham
+ 5468: WESTENRA'S
+ 5486: SEWARD'S
+ 5504: Himmel
+ 5538: morphia
+ 5563: enjealous
+ 5610: Helsing's
+ 5612: gentleman'
+ 5614: Lucy's
+ 5620: Hillingham
+ 5633: woes
+ 5640: Floridas
+ 5664: Haarlem
+ 5664: Vanderpool
+ 5669: pharmacopeia
+ 5713: WESTENRA'S
+ 5726: Ophelia
+ 5727: crants
+ 5727: strewments
+ 5733: SEWARD'S
+ 5739: Hillingham
+ 5744: Westenra
+ 5754: Lucy's
+ 5795: Lucy's
+ 5815: Westenra
+ 5816: Lucy's
+ 5830: WESTENRA'S
+ 5847: Haarlem
+ 5851: Arthur's
+ 5868: GAZETTE'
+ 5870: Bilder
+ 5880: arsk
+ 5880: excoose
+ 5881: refoosin'
+ 5881: perfeshunal
+ 5881: subjucts
+ 5882: hyenas
+ 5883: arsk
+ 5888: Scratchin'
+ 5892: kawffee
+ 5893: scratchin'
+ 5894: theer
+ 5894: animiles
+ 5895: comin'
+ 5895: arskin'
+ 5896: bloomin'
+ 5897: arsked
+ 5898: arsk
+ 5898: arsk
+ 5903: An'
+ 5903: usin'
+ 5905: goin'
+ 5906: lor'
+ 5908: an'
+ 5908: bloomin'
+ 5911: comin'
+ 5918: guv'nor
+ 5919: Bersicker
+ 5920: Jamrach's
+ 5923: wantin'
+ 5923: animile
+ 5927: mindin'
+ 5927: animiles
+ 5931: feedin'
+ 5932: makin'
+ 5933: yelpin'
+ 5934: Bersicker
+ 5934: tearin'
+ 5938: runnin'
+ 5940: hirritated
+ 5941: animiles
+ 5949: imitatin'
+ 5953: animiles
+ 5954: talkin'
+ 5954: Bersicker
+ 5957: wolf's
+ 5963: tyking
+ 5964: anceterer
+ 5969: Bersicker
+ 5969: kep'
+ 5969: lookin'
+ 5971: hevening
+ 5971: larst
+ 5972: warn't
+ 5973: warn't
+ 5974: callin'
+ 5974: gardings
+ 5977: turnin'
+ 5977: an'
+ 5978: Bersicker's
+ 5980: certing
+ 5984: gard'ners
+ 5984: comin'
+ 5985: comin'
+ 5985: garding
+ 5989: huntin'
+ 5990: Bersicker
+ 5990: seein'
+ 5993: Bilder
+ 6010: Bilder
+ 6014: y'are
+ 6014: Ye'll
+ 6014: excoose
+ 6015: chaffin'
+ 6020: a'idin'
+ 6021: gard'ner
+ 6021: gallopin'
+ 6023: bein'
+ 6024: dessay
+ 6025: chivyin'
+ 6025: somethin'
+ 6027: Lor'
+ 6030: fightin'
+ 6030: providin'
+ 6030: hisself
+ 6031: a'hidin'
+ 6031: an'
+ 6031: a'shiverin'
+ 6032: wonderin'
+ 6035: shinin'
+ 6037: walkin'
+ 6038: leavin'
+ 6038: hinfant
+ 6039: babby
+ 6043: Bilder's
+ 6046: Bersicker
+ 6055: Bilder
+ 6066: Bilder
+ 6072: gettin'
+ 6073: bloomin'
+ 6073: shyme
+ 6075: Bersicker
+ 6087: SEWARD'S
+ 6096: instant's
+ 6115: Lucy's
+ 6128: Hilllingham
+ 6135: SEWARD'S
+ 6138: Helsing's
+ 6144: Lucy's
+ 6149: WESTENRA
+ 6272: SEWARD'S
+ 6274: Hillingham
+ 6312: servants'
+ 6320: Lucy's
+ 6334: Lucy's
+ 6366: Holmwood
+ 6374: sternest
+ 6382: Lucy's
+ 6383: Helsing's
+ 6404: Helsing's
+ 6418: Quincey
+ 6421: Quincey
+ 6430: Holmwood
+ 6448: morphia
+ 6449: Quincey
+ 6450: cabmen
+ 6453: Quincey
+ 6460: Lucy's
+ 6478: Westenra
+ 6488: Quincey
+ 6489: Westenra
+ 6498: Quincey
+ 6503: Quincey
+ 6559: wits'
+ 6565: Quincey
+ 6568: Lucy's
+ 6594: Quincey
+ 6598: Lucy's
+ 6607: Quincey
+ 6616: Arthur's
+ 6624: Lucy's
+ 6631: HARKER
+ 6631: WESTENRA
+ 6685: Harker
+ 6692: Harker
+ 6696: MRCSLK
+ 6696: QCPI
+ 6705: Renfield
+ 6708: carrier's
+ 6715: Renfield's
+ 6719: beggar'
+ 6725: bloomin'
+ 6726: guv'nor
+ 6726: havin'
+ 6731: revilings
+ 6783: Dudding's
+ 6784: Farley's
+ 6785: Bethnal
+ 6800: HARKER
+ 6800: WESTENRA
+ 6837: Harker
+ 6841: SEWARD'S
+ 6847: Lucy's
+ 6848: Arthur's
+ 6865: Lucy's
+ 6870: Lucy's
+ 6903: Lucy's
+ 6906: Lucy's
+ 6914: sternest
+ 6931: Lucy's
+ 6933: Lucy's
+ 6974: Helsing's
+ 6984: Lucy's
+ 6985: Arthur's
+ 6988: Lucy's
+ 6998: sterner
+ 7023: SEWARD'S
+ 7043: Lucy's
+ 7053: Lucy's
+ 7056: Westenra
+ 7057: Lucy's
+ 7062: Westenra's
+ 7086: ardente
+ 7091: Lucy's
+ 7092: fingers'
+ 7122: coffined
+ 7192: Wholeman
+ 7192: Lidderdale
+ 7195: Westenra
+ 7197: Lucy's
+ 7200: Holmwood
+ 7214: predeceasing
+ 7219: Godalming
+ 7230: Godalming
+ 7240: Godalming
+ 7299: Arthur's
+ 7337: Jack's
+ 7344: Westenra
+ 7349: Lucy's
+ 7357: Lucy's
+ 7371: Arthur's
+ 7372: patroling
+ 7380: HARKER'S
+ 7411: Guiliano's
+ 7419: beaky
+ 7451: minutes'
+ 7451: Jonathan's
+ 7473: Westenra
+ 7477: Westenra
+ 7484: SEWARD'S
+ 7487: Quincey
+ 7487: Quincey
+ 7488: Lucy's
+ 7501: Lucy's
+ 7501: Helsing's
+ 7505: Quincey
+ 7544: woes
+ 7583: polyandrist
+ 7584: Church's
+ 7630: bloofer
+ 7635: bloofer
+ 7640: bloofer
+ 7640: caricaturists
+ 7643: bloofer
+ 7670: BLOOFER
+ 7674: Shooter's
+ 7680: bloofer
+ 7688: HARKER'S
+ 7702: Jonathan's
+ 7728: HARKER
+ 7738: Westenra's
+ 7738: Godalming
+ 7743: others'
+ 7747: Godalming
+ 7760: HARKER
+ 7765: HARKER
+ 7770: HARKER'S
+ 7774: Jonathan's
+ 7779: tinges
+ 7786: Westenra
+ 7797: Jonathan's
+ 7804: Jonathan's
+ 7814: Arthur's
+ 7815: Seward's
+ 7820: Jonathan's
+ 7827: deux
+ 7845: Harker
+ 7850: Westenra
+ 7854: Westenra
+ 7924: darknesses
+ 7938: angels'
+ 7984: Jonathan's
+ 8013: Jonathan's
+ 8024: Paddington
+ 8035: HARKER
+ 8060: HARKER
+ 8076: Paddington
+ 8084: Harker
+ 8090: HARKER'S
+ 8094: supped
+ 8094: Helsing's
+ 8114: Mina'
+ 8130: physiognomist
+ 8185: SEWARD'S
+ 8190: Renfield
+ 8194: Quincey
+ 8196: Quincey
+ 8201: cicatrised
+ 8215: decoyed
+ 8221: Lucy's
+ 8304: vouched
+ 8308: sowed
+ 8371: SEWARD'S
+ 8401: madman's
+ 8427: Lucy's
+ 8462: Castle'
+ 8463: bicyclists
+ 8473: Westenra
+ 8496: Lucy's
+ 8497: turnscrew
+ 8510: turnscrew
+ 8527: argumentativeness
+ 8528: Lucy's
+ 8617: hours'
+ 8640: Lucy's
+ 8681: UnDead
+ 8682: UnDead
+ 8685: UnDead
+ 8690: Helsing's
+ 8705: UnDead
+ 8719: Lucy's
+ 8737: UnDead
+ 8766: UnDead
+ 8770: UnDead
+ 8773: UnDead
+ 8777: UnDead
+ 8780: Lucy's
+ 8781: UnDead
+ 8788: UnDead
+ 8792: Harker
+ 8793: UnDead
+ 8804: SEWARD'S
+ 8807: Helsing's
+ 8821: Quincey
+ 8821: Helsing's
+ 8826: Godalming
+ 8832: Quincey
+ 8836: Quincey
+ 8853: Quincey
+ 8859: Quincey
+ 8862: poke'
+ 8875: pourparlers
+ 8878: Kingstead
+ 8880: Arthur's
+ 8926: UnDead
+ 8928: UnDead
+ 8946: Godalming
+ 8951: Lordship's
+ 8969: UnDead
+ 8983: SEWARD'S
+ 8993: counteractant
+ 9018: Quincey
+ 9034: UnDead
+ 9037: UnDead
+ 9056: Helsing's
+ 9057: Quincey
+ 9069: Quincey
+ 9071: UnDead
+ 9098: yews
+ 9101: cerements
+ 9110: Westenra
+ 9110: Westenra
+ 9117: Lucy's
+ 9122: Helsing's
+ 9127: Lucy's
+ 9128: Lucy's
+ 9129: orbs
+ 9137: bloodedness
+ 9160: Helsing's
+ 9179: Quincey
+ 9205: Quincey
+ 9211: Quincey
+ 9216: gravediggers
+ 9228: Lucy's
+ 9231: Lucy's
+ 9232: Arthur's
+ 9233: Lucy's
+ 9241: unspirited
+ 9242: Lucy's
+ 9254: Quincey
+ 9259: UnDead
+ 9263: Undead
+ 9263: Undead
+ 9268: nosferatu
+ 9272: UnDead
+ 9277: UnDead
+ 9311: UnDead
+ 9315: Quincey
+ 9323: champed
+ 9326: untrembling
+ 9336: Arthur's
+ 9358: Arthur's
+ 9372: UnDead
+ 9374: Quincey
+ 9413: SEWARD'S
+ 9415: Berkely
+ 9419: Harker
+ 9428: Harker
+ 9429: Harker's
+ 9437: UnDead
+ 9442: Paddington
+ 9450: Harker
+ 9458: Fenchurch
+ 9460: Harker
+ 9478: HARKER'S
+ 9480: Seward's
+ 9514: horrorstruck
+ 9575: SEWARD'S
+ 9578: Harker
+ 9579: Harker
+ 9581: Harker's
+ 9602: Lucy's
+ 9621: Lucy's
+ 9631: HARKER'S
+ 9641: Lucy's
+ 9650: Jonathan's
+ 9661: Godalming
+ 9676: Gazette'
+ 9677: Gazette'
+ 9678: Gazette'
+ 9680: Dracula
+ 9687: SEWARD'S
+ 9689: Harker
+ 9699: Harker
+ 9701: Harker
+ 9702: Harker
+ 9709: Count's
+ 9710: Renfield
+ 9713: Harker
+ 9716: Renfield
+ 9718: Harker
+ 9721: Renfield
+ 9727: Harker
+ 9733: vampire's
+ 9747: JOHNATHAN
+ 9747: HARKER'S
+ 9749: Billington's
+ 9753: Count's
+ 9754: Billington
+ 9759: Billington
+ 9761: Count's
+ 9766: chances'
+ 9769: purposes'
+ 9771: Billington
+ 9776: heavy'
+ 9786: King's
+ 9796: King's
+ 9801: carriers'
+ 9809: guv'nor
+ 9809: rummiest
+ 9809: Blyme
+ 9810: sence
+ 9811: slep'
+ 9812: An'
+ 9813: cike
+ 9814: thort
+ 9815: Lor'
+ 9824: Seward's
+ 9833: HARKER'S
+ 9848: Seward's
+ 9848: Lucy's
+ 9852: Godalming
+ 9855: Lucy's
+ 9857: trumpet'
+ 9863: Seward's
+ 9864: Lucy's
+ 9869: Godalming
+ 9870: Harker
+ 9887: Godalming
+ 9898: Lucy's
+ 9911: sorrowing
+ 9929: Lucy's
+ 9931: Lucy's
+ 9973: SEWARD'S
+ 9975: Godalming
+ 9977: Harker
+ 9978: carriers'
+ 9979: Harker
+ 9981: Harker
+ 9984: Renfield
+10014: Renfield
+10021: Harker
+10023: Harker
+10034: Harker
+10038: Harker
+10041: Renfield
+10041: Harker
+10045: Harker
+10053: elenche
+10058: Harker's
+10067: completest
+10088: Harker
+10090: Renfield
+10091: pleasanter
+10100: Quincey
+10108: Quincey
+10111: Harker's
+10130: Dracula
+10139: Harker
+10150: Harker
+10173: HARKER'S
+10175: Seward's
+10180: Godalming
+10181: Godalming
+10201: nosferatu
+10242: Quincey
+10245: Godalming
+10245: Lucy's
+10252: Godalming
+10286: Chermosese
+10308: Quincey
+10315: Dracula
+10356: Voivode
+10356: Dracula
+10358: Turkeyland
+10363: Draculas
+10364: coevals
+10365: Scholomance
+10366: Hermanstadt
+10369: Dracula
+10391: ricochetting
+10393: Godalming
+10395: Morris'
+10399: Harker
+10451: SEWARD'S
+10454: Renfield
+10471: Godalming
+10473: Quincey
+10473: Harker
+10493: Godalming
+10494: Quincey
+10494: Harker
+10495: Renfield
+10497: Godalming
+10498: Windham
+10537: scytheman
+10567: Renfield
+10599: imploringly
+10655: HARKER'S
+10665: Renfield
+10673: Godalming
+10677: Quincey
+10683: indexy
+10700: Godalming
+10714: windpipes
+10732: Lucy's
+10739: Seward's
+10739: Westenra's
+10744: tuas
+10763: hobnails
+10797: sickens
+10816: Godalming
+10819: Count's
+10821: Godalming
+10836: Godalming
+10842: Seward's
+10856: Godalming
+10893: Count's
+10910: Renfield's
+10927: tonight's
+10933: overslept
+10948: SEWARD'S
+10976: Harker
+11017: Harker
+11023: Harker
+11023: Harker
+11023: Quincey
+11031: HARKER'S
+11034: Jonathan's
+11039: Count's
+11078: Renfield's
+11122: joinings
+11156: Renfield
+11166: Jonathan's
+11183: HARKER'S
+11185: Bethnal
+11192: shirtsleeves
+11200: Chicksand
+11213: guv'nor
+11215: Bloxam
+11215: an'
+11216: Pincher's
+11216: an'
+11217: Purfleet
+11218: an'
+11218: thinkin'
+11218: Bloxam
+11218: summut
+11225: guv'nor
+11226: keepin'
+11226: mayn't
+11230: ye'd
+11231: mornin'
+11255: Bloxam
+11255: Korkrans
+11255: Poters
+11255: Bartel
+11255: Arsk
+11256: depite
+11266: Smollet's
+11267: Poter's
+11271: depite
+11273: bloomin'
+11274: livin'
+11276: Smollet's
+11280: depity
+11284: Bloxam
+11288: ware'us
+11294: ware'us
+11296: Bloxam
+11307: guv'nor
+11307: forgits
+11308: somethink
+11309: nothin'
+11310: tooked
+11310: bloomin'
+11314: waitin'
+11315: Purfleet
+11316: an'
+11318: shadder
+11323: puffin'
+11323: an'
+11323: blowin'
+11323: an'
+11329: an'
+11329: an'
+11334: Yus
+11334: an'
+11335: an'
+11339: Yus
+11339: an'
+11339: nothin'
+11344: nothink
+11345: an'
+11345: druv
+11351: an'
+11354: shillin's
+11354: an'
+11354: seein'
+11356: cussin'
+11366: Dracula
+11372: uprights
+11422: Godalming
+11426: Harker
+11428: Holmwood
+11429: lordship's
+11431: tonight's
+11435: Seward's
+11437: Purfleet
+11474: Godalming
+11482: Godalming's
+11484: Quincey's
+11486: Count's
+11489: Godalming
+11505: SEWARD'S
+11507: Renfield
+11521: Malvolio
+11536: zoophagy
+11548: Enoch's
+11584: Harker
+11585: Godalming
+11585: Quincey
+11586: Harkers
+11591: Renfield
+11652: Renfield
+11655: larder'
+11658: carnivora
+11690: Renfield
+11723: Renfield
+11741: GODALMING
+11749: Harker
+11752: Suffield
+11760: Lordship's
+11767: SEWARD'S
+11770: Renfield's
+11773: Harker
+11774: Harker
+11790: Harker
+11790: Quincey
+11791: Godalming
+11806: Renfield's
+11814: Renfield
+11825: SEWARD'S
+11831: Renfield's
+11847: Eversfield
+11855: instant's
+11858: Renfield
+11892: Quincey
+11894: Quincey
+11902: Quincey
+11908: Godalming
+11916: Helsing's
+11918: Renfield
+11953: Renfield
+11960: Quincey
+11988: Helsing's
+11992: Renfield
+12009: Acherontia
+12010: Moth'
+12047: Harker
+12053: sterner
+12053: Renfield
+12054: Harker
+12086: Count's
+12094: Harkers'
+12094: Quincey
+12118: Harker
+12123: Harker's
+12141: crucifixes
+12143: Quincey's
+12146: Harker
+12154: Count's
+12169: Quincey
+12171: Harker's
+12182: Harker
+12211: nightrobe
+12245: Quincey
+12245: Godalming
+12250: Godalming
+12259: concealments
+12271: Renfield's
+12274: Harker
+12277: Harker
+12283: Quincey
+12289: Renfield's
+12298: Harker's
+12312: protectingly
+12317: myriads
+12377: countermining
+12398: Harker
+12416: HARKER'S
+12433: Renfield
+12435: Renfield
+12442: Renfield
+12488: meaningly
+12502: Undead
+12551: Mina's
+12567: earths'
+12628: Mina's
+12636: Godalming
+12648: Quincey
+12665: Count's
+12673: Godalming
+12673: Quincey
+12682: Count's
+12684: Count's
+12685: Mina's
+12707: overmastered
+12745: Mina's
+12798: holiest
+12831: Mina's
+12843: Fenchurch
+12844: Godalming
+12844: Quincey
+12859: Godalming
+12870: Godalming
+12873: Godalming
+12881: Godalming
+12886: Helsing's
+12890: Godalming
+12895: Quincey
+12896: Godalming
+12936: Godalming
+12936: Quincey
+12949: SEWARD'S
+12952: Godalming
+12952: Quincey
+12955: Harker
+12980: Scholomance
+12992: Harker
+13003: Harker
+13030: Quincey
+13035: postman's
+13045: Harker's
+13065: Quincey
+13067: Harker's
+13076: Godalming
+13076: Quincey
+13085: Quincey
+13088: Harker
+13091: Madam's
+13108: Quincey
+13113: Harker
+13116: Godalming
+13116: Quincey
+13124: pantherlike
+13124: unhuman
+13126: Harker
+13136: Harker
+13138: Count's
+13142: Count's
+13143: Harker
+13150: Count's
+13153: Harker's
+13186: Harker
+13190: Godalming
+13190: Harker
+13205: Harker
+13209: Harker
+13231: Harker
+13235: Harker
+13298: Harker
+13303: Quincey
+13303: Godalming
+13306: Quincey
+13308: Godalming
+13313: HARKER'S
+13328: reefwards
+13362: oblongs
+13385: Godalming
+13413: Helsing's
+13423: Mina's
+13465: Mina's
+13476: Godalming
+13486: Count's
+13487: Jonathan's
+13528: SEWARD'S
+13532: Harker
+13537: holiest
+13573: HARKER'S
+13575: Helsing's
+13581: Dracula
+13602: HARKER'S
+13605: Godalming
+13605: Quincey
+13606: Harker
+13606: Harker
+13609: Dracula
+13614: Omme
+13618: Godalming
+13618: Lloyd's
+13621: Doolittle's
+13623: Doolittle's
+13626: Quincey
+13664: bloomin'
+13664: cared'
+13681: captain's
+13683: mariners
+13699: Ristics
+13728: Undead
+13731: wonderous
+13732: Undead
+13764: maneater
+13767: maneater
+13780: enkeen
+13812: SEWARD'S
+13824: Harker's
+13827: Harker
+13833: Harker's
+13840: Vampire's
+13842: ptomaines
+13844: Harker's
+13899: Harker
+13904: Harker
+13926: Quincey
+13933: Quincey's
+13941: Harker
+13947: Harker
+13957: HARKER'S
+13961: Mina's
+13972: Mina's
+14033: solemnest
+14058: Mina's
+14062: Godalming
+14089: Quincey
+14111: Mina's
+14126: SEWARD'S
+14128: Harker
+14133: Harker
+14174: Lucy's
+14183: Harker's
+14192: Quincey
+14198: Quincey's
+14206: Quincey
+14219: Godalming
+14236: Lucy's
+14244: Harker
+14280: sorrowing
+14288: Harker's
+14296: HARKER'S
+14301: Godalming
+14303: Odessus
+14325: Godalming
+14327: Lloyd's
+14352: Mina's
+14359: Godalming
+14365: Godalming's
+14371: Godalming
+14374: Count's
+14379: unturned
+14385: Godalming
+14386: Mina's
+14387: unvaried
+14393: LLOYD'S
+14394: GODALMING
+14400: SEWARD'S
+14404: Godalming
+14404: Lloyd's
+14406: Harker
+14415: Harker's
+14426: hours'
+14433: Harker's
+14436: Harker
+14437: Ghoorka
+14442: Harker
+14465: Harker's
+14473: Harker
+14479: Mina's
+14481: Harker
+14486: Godalming
+14489: Galatz
+14494: SEWARD'S
+14496: Galatz
+14511: Godalming
+14513: Quincey
+14515: Harker
+14516: Harker
+14522: Galatz
+14526: Harker
+14535: Dracula
+14535: Galatz
+14541: Godalming
+14549: Galatz
+14550: Quincey
+14552: Galatz
+14558: Harker
+14570: Harker
+14571: Harker's
+14614: Harker
+14627: Duck'
+14638: Count's
+14650: universale
+14668: Harker
+14716: Galatz
+14720: chiefest
+14740: Harker
+14749: SEWARD'S
+14751: Galatz
+14755: Galatz
+14756: Harker
+14766: rowlocks
+14774: Quincey
+14775: Harker's
+14783: acqueisced
+14798: Harker
+14811: Galatz
+14815: Harker
+14822: Harker
+14823: Count's
+14828: Count's
+14845: Galatz
+14860: Harker's
+14876: Galatz
+14881: HARKER'S
+14886: Godalming
+14893: Godalming
+14899: HARKER'S
+14902: Steinkoff
+14904: Godalming's
+14907: Donelson
+14912: wi'
+14914: wi'
+14914: ahint
+14914: blawin'
+14915: An'
+14915: a'
+14917: wi'
+14918: wi'
+14919: bein'
+14919: An'
+14922: thocht
+14924: miscredit
+14925: wi'
+14925: an'
+14926: hinderin'
+14936: Roumanians
+14937: lookin'
+14940: supersteetion
+14940: pairfectly
+14941: rideeculous
+14941: aboot
+14944: joost
+14946: a'reet
+14946: An'
+14947: eneuch
+14948: mornin'
+14949: Galatz
+14949: Roumanians
+14951: wi'
+14951: aboot
+14951: wi'
+14951: An'
+14952: wi'
+14956: Galatz
+14956: thocht
+14957: an'
+14957: o't
+14957: althegither
+14958: clearin'
+14958: an'
+14958: nicht
+14959: mornin'
+14959: an'
+14959: airly
+14959: wi'
+14961: Dracula
+14961: eneuch
+14962: a'
+14962: reet
+14962: an'
+14963: beginnin'
+14963: masel'
+14964: aboord
+14964: thinkin'
+14964: ither
+14970: tellin'
+14971: Burgen
+14971: strasse
+14975: Adelphi
+14981: Galatz
+14982: Petrof
+14982: Skinsky
+14983: Slovaks
+14985: Skinsky
+14989: Skinsky
+14998: Skinsky
+15019: HARKER'S
+15051: HARKER'S
+15056: Dracula's
+15111: Galatz
+15116: Petrof
+15117: Skinsky
+15118: Skinsky
+15122: Donelson's
+15123: Count's
+15125: Galatz
+15125: Count's
+15127: Skinsky
+15127: Skinsky
+15133: Galatz
+15135: Skinsky
+15137: Skinsky
+15138: Skinsky
+15138: Slovaks
+15145: Szgany
+15146: Slovaks
+15150: Skinsky
+15156: Slovaks
+15157: Pruth
+15157: Sereth
+15165: Sereth
+15165: Pruth
+15167: Pruth
+15167: Sereth
+15168: Bistritza
+15168: Borgo
+15169: Dracula's
+15174: HARKER'S
+15188: Godalming
+15201: Harker
+15204: Quincey
+15207: Slovaks
+15209: Count's
+15229: Godalming
+15230: Quincey
+15236: Bistritz
+15236: Borgo
+15237: Dracula
+15237: Mina's
+15252: Vampire's
+15269: gloating
+15284: Godalming
+15289: Godalming
+15293: Veresti
+15294: Borgo
+15314: HARKER'S
+15317: Godalming
+15320: Mina's
+15321: Count's
+15322: Sereth
+15322: Bistritza
+15327: Godalming
+15342: moveable
+15350: Godalming
+15353: Godalming
+15363: Bistritza
+15367: Bistritza
+15368: Sereth
+15368: Roumanian
+15371: Slovaks
+15374: Bistritza
+15375: Sereth
+15378: Godalming
+15391: Veresti
+15393: Borgo
+15401: Strasba
+15409: SEWARD'S
+15419: Bistritza
+15426: Godalming
+15440: HARKER'S
+15442: Veresti
+15478: HARKER'S
+15485: Bistritz
+15524: Veresti
+15528: Borgo
+15551: Purfleet
+15563: vif
+15574: Borgo
+15593: Bistritz
+15624: Count's
+15659: precipices
+15727: Jonathan's
+15728: befooling
+15802: HARKER'S
+15808: Godalming
+15809: Szgany
+15815: SEWARD'S
+15817: Szgany
+15818: leiter
+15831: HELSING'S
+15837: Veresti
+15840: Jonathan's
+15866: Undead
+15872: Undead
+15905: Undead
+15906: Undead
+15912: DRACULA
+15915: Undead
+15919: Dracula's
+15920: Undead
+15951: Undead
+15972: HARKER'S
+15983: Dracula's
+16021: kinks
+16024: leiter
+16051: Quincey
+16058: Godalming
+16098: Jonathan's
+16099: Morris'
+16103: Godalming
+16130: Quincey
+16135: Jonathan's
+16141: Szgany
+16156: Godalming
+16167: Jonathan's
+16169: Morris's
+16179: Dracula
+16186: leiter
+16224: Quincey
+16227: Quincey
+16238: Godalming
+16244: Helsing's
+16253: HARKER
+16263: EBook
+16263: Dracula
+16265: EBOOK
+16265: DRACULA
+16267: txt
+16269: http
+16284: eBooks
+16285: eBook
+16286: eBook
+16289: eBooks
+16305: http
+16333: PGLAF
+16367: eBook
+16370: eBook
+16401: nonproprietary
+16497: IS'
+16499: MERCHANTIBILITY
+16506: unenforceability
+16530: tm's
+16537: http
+16537: pglaf
+16548: http
+16548: pglaf
+16556: pglaf
+16558: http
+16558: pglaf
+16561: Newby
+16563: gbnewby
+16563: pglaf
+16584: http
+16584: pglaf
+16598: http
+16598: pglaf
+16607: eBooks
+16610: eBooks
+16613: eBooks
+16616: PG
+16618: http
+16622: eBooks
+16623: eBooks
+
+***************************************************************
+TOTAL WORDS MISSPELLED: 1716
+TOTAL WORDS IN DICTIONARY: 143092
+VALID WORDS IN TEXT: 162196
+***************************************************************
+
+***************************************************************
+LOAD TIME: 0.095224
+CHECK TIME: 0.059530
+UNLOAD TIME: 0.544544
+***************************************************************

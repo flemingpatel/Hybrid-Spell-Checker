@@ -1,0 +1,776 @@
+    0: EBook
+    6: eBook
+   13: eBook
+   21: eBooks
+   23: eBooks
+   30: EBook
+   39: EBOOK
+   44: Menendez
+   56: Boscombe
+   64: Beeches
+  107: Trepoff
+  253: Eglow
+  253: Eglonitz
+  253: Egria
+  266: uncourteous
+  271: horses'
+  326: Kramm
+  357: Ormstein
+  378: Gottsreich
+  379: Sigismond
+  379: Ormstein
+  379: Felstein
+  486: Clotilde
+  486: Lothman
+  486: Meningen
+  514: Langham
+  515: Kramm
+  541: Mademoiselle's
+  616: ostlers
+  626: daintiest
+  646: gentleman's
+  668: Hankey's
+  669: Edgeware
+  695: surpliced
+  696: expostulating
+  796: plumber's
+  830: Holmes'
+  835: guardsmen
+  889: guardsmen
+  897: guardsmen
+  932: intrusted
+  942: ostlers
+  952: Edgeware
+  993: Arnsworth
+ 1116: superscribed
+ 1151: née
+ 1182: Irene's
+ 1248: Jabez
+ 1288: Holmes'
+ 1295: Jabez
+ 1324: fishes'
+ 1329: Jabez
+ 1345: Ezekiah
+ 1369: Jabez
+ 1385: employé
+ 1416: wits'
+ 1449: Ezekiah
+ 1462: Londoners
+ 1485: coster's
+ 1513: Jabez
+ 1608: Jabez
+ 1636: planked
+ 1648: B's
+ 1673: overtopped
+ 1729: Jabez
+ 1818: James's
+ 1831: Aldersgate
+ 1839: JABEZ
+ 1897: Mortimer's
+ 1899: McFarlane's
+ 1926: enwrapped
+ 1926: James's
+ 1975: hansoms
+ 1985: Merryweather
+ 1994: Merryweather
+ 2001: Sholto
+ 2011: Merryweather
+ 2016: Merryweather
+ 2037: Farrington
+ 2040: Merryweather
+ 2049: Merryweather
+ 2054: Merryweather
+ 2062: Merryweather
+ 2071: Merryweather
+ 2084: Merryweather
+ 2095: napoleons
+ 2098: napoleons
+ 2106: Merryweather
+ 2111: carrée
+ 2179: Holmes'
+ 2216: Merryweather
+ 2239: accomplice's
+ 2284: Jabez
+ 2303: c'est
+ 2303: l'oeuvre
+ 2304: c'est
+ 2317: plannings
+ 2319: outré
+ 2320: conventionalities
+ 2351: Dundas
+ 2444: Hosmer
+ 2453: Windibank
+ 2470: Tottenham
+ 2472: Windibank
+ 2499: Windibank
+ 2507: Hosmer
+ 2511: gasfitters'
+ 2513: Windibank
+ 2523: Hosmer
+ 2525: Windibank
+ 2532: gasfitters'
+ 2533: Hosmer
+ 2538: Hosmer
+ 2549: Hosmer
+ 2552: Hosmer
+ 2561: Hosmer
+ 2562: Leadenhall
+ 2574: Leadenhall
+ 2578: Leadenhall
+ 2580: chaffed
+ 2590: Hosmer
+ 2601: Windibank
+ 2604: Hosmer
+ 2628: King's
+ 2629: Pancras
+ 2629: Hosmer
+ 2670: Hosmer
+ 2674: Hosmer
+ 2684: Hosmer
+ 2707: Westhouse
+ 2707: Marbank
+ 2708: Fenchurch
+ 2716: Hosmer
+ 2751: brickish
+ 2754: greyish
+ 2771: typewritist
+ 2803: Hosmer
+ 2808: Hosmer
+ 2815: Leadenhall
+ 2827: Leadenhall
+ 2842: Windibank
+ 2871: dénouement
+ 2896: Windibank
+ 2907: Windibank
+ 2921: Hosmer
+ 2924: Hosmer
+ 2926: Windibank
+ 2933: Windibank
+ 2943: Windibank
+ 2948: slurred
+ 2952: Windibank
+ 2960: Windibank
+ 2964: Windibank
+ 2974: Windibank
+ 3005: Hosmer
+ 3015: gentleman's
+ 3028: Windibank
+ 3029: Hosmer
+ 3035: Windibank
+ 3058: Windibank
+ 3070: Hosmer
+ 3097: Westhouse
+ 3097: Marbank
+ 3097: Fenchurch
+ 3098: employé
+ 3099: Windibank
+ 3099: Voilà
+ 3111: BOSCOMBE
+ 3118: Boscombe
+ 3120: Paddington
+ 3128: Anstruther
+ 3130: Holmes'
+ 3139: Paddington
+ 3141: gaunter
+ 3180: Boscombe
+ 3184: Hatherley
+ 3194: McCarthys
+ 3202: Hatherley
+ 3203: Boscombe
+ 3204: Boscombe
+ 3210: Hatherley
+ 3210: Boscombe
+ 3222: McCarthys
+ 3223: Boscombe
+ 3226: Boscombe
+ 3234: McCarthys
+ 3235: Boscombe
+ 3247: murder'
+ 3266: Lestrade
+ 3268: Lestrade
+ 3279: Lestrade
+ 3284: Lestrade
+ 3298: métier
+ 3306: Hatherley
+ 3311: coroner's
+ 3368: Boscombe
+ 3380: Hatherley
+ 3385: Turner's
+ 3484: outré
+ 3497: dustcoat
+ 3499: Lestrade
+ 3503: Lestrade
+ 3510: Lestrade
+ 3513: caseful
+ 3518: Lestrade
+ 3553: Lestrade
+ 3555: Lestrade
+ 3616: Lestrade
+ 3617: minutes'
+ 3659: Holmes'
+ 3670: improbabilities
+ 3671: Lestrade's
+ 3672: Holmes'
+ 3677: Lestrade
+ 3683: fagged
+ 3708: upbraided
+ 3739: Lestrade
+ 3740: Hatherley
+ 3740: Boscombe
+ 3743: Lestrade
+ 3753: Hatherley
+ 3763: Turner's
+ 3771: Lestrade
+ 3778: Lestrade
+ 3786: Hatherley
+ 3790: blotches
+ 3794: Holmes'
+ 3799: Boscombe
+ 3814: Boscombe
+ 3818: Lestrade
+ 3824: Boscombe
+ 3826: Hatherley
+ 3829: Hatherley
+ 3832: Lestrade
+ 3860: Tiptoes
+ 3860: tiptoes
+ 3887: Lestrade
+ 3909: Lestrade
+ 3913: verrons
+ 3934: Lestrade
+ 3943: Lestrade
+ 3973: Boscombe
+ 3983: ARAT
+ 4011: Lestrade
+ 4220: deathbeds
+ 4263: Paradol
+ 4267: Grice
+ 4267: Patersons
+ 4267: Uffa
+ 4288: Russell's
+ 4332: Horsham
+ 4345: Prendergast
+ 4346: Tankerville
+ 4385: Openshaw
+ 4394: Openshaw
+ 4400: Jackson's
+ 4404: Horsham
+ 4410: Horsham
+ 4459: cashbox
+ 4463: Horsham
+ 4507: scummed
+ 4526: Horsham
+ 4531: register'
+ 4533: Openshaw
+ 4544: Horsham
+ 4593: Freebody
+ 4594: Portsdown
+ 4608: footmarks
+ 4622: Horsham
+ 4679: Prendergast
+ 4687: Openshaw
+ 4707: Paramore
+ 4714: Paramore
+ 4760: Horsham
+ 4771: reabsorbed
+ 4784: Openshaw
+ 4786: Sholtos
+ 4839: Openshaw
+ 4885: Openshaw
+ 4893: Openshaw
+ 4897: coroner's
+ 4940: Openshaw
+ 4950: C'
+ 4955: Openshaw
+ 4969: Openshaw's
+ 4974: Horsham
+ 4990: Openshaw
+ 5001: Openshaw
+ 5001: Horsham
+ 5024: decoyed
+ 5056: Openshaw
+ 5057: unavenged
+ 5070: Openshaw
+ 5081: Lloyd's
+ 5109: Goodwins
+ 5123: Openshaw
+ 5141: Quincey's
+ 5199: Swandam
+ 5205: Whitney's
+ 5216: Swandam
+ 5265: d'you
+ 5316: Holmes'
+ 5323: Whitney's
+ 5349: sots
+ 5367: horses'
+ 5376: Cedars
+ 5378: Cedars
+ 5380: Clair's
+ 5397: balustraded
+ 5402: rifts
+ 5456: Swandam
+ 5460: Swandam
+ 5468: Swandam
+ 5528: Clair's
+ 5535: gentleman's
+ 5543: vestas
+ 5594: Clair's
+ 5601: Clair's
+ 5631: coat's
+ 5661: Cedars
+ 5679: soie
+ 5782: greyish
+ 5853: Swandam
+ 5894: Swandam
+ 5987: Bradstreet
+ 5989: Bradstreet
+ 5991: Bradstreet
+ 5999: beggarman
+ 6016: tinker's
+ 6116: Bradstreet
+ 6147: fortnight's
+ 6160: Swandam
+ 6214: Bradstreet
+ 6224: Bradstreet
+ 6299: Peterson's
+ 6303: Tottenham
+ 6306: Goodge
+ 6314: Tottenham
+ 6323: Baker'
+ 6363: maker's
+ 6438: daubing
+ 6510: Morcar's
+ 6529: Horner
+ 6537: Horner
+ 6539: Morcar
+ 6542: Horner
+ 6543: Morcar
+ 6545: Horner
+ 6546: Horner
+ 6550: Horner
+ 6552: Cusack
+ 6553: Ryder's
+ 6556: Bradstreet
+ 6557: Horner
+ 6561: Horner
+ 6568: Tottenham
+ 6583: Goodge
+ 6601: James's
+ 6627: Horner
+ 6658: Holmes'
+ 6672: Holmes'
+ 6709: disjecta
+ 6726: Windigate
+ 6745: ulsters
+ 6749: doctors'
+ 6750: Wimpole
+ 6750: Wigmore
+ 6753: Holborn
+ 6755: aproned
+ 6765: them's
+ 6773: Breckinridge
+ 6778: Breckinridge
+ 6781: years'
+ 6789: Holborn
+ 6789: Endell
+ 6791: Breckinridge
+ 6855: D'you
+ 6880: D'you
+ 6887: Oakshott
+ 6892: Oakshott
+ 6900: Windigate
+ 6917: Oakshott
+ 6926: Breckinridge
+ 6932: Oakshott
+ 6938: Oakshott
+ 6942: Proosia
+ 6969: Oakshott
+ 6970: Breckinridge
+ 6971: Windigate
+ 7002: claspings
+ 7002: unclaspings
+ 7026: bonniest
+ 7035: game's
+ 7049: Morcar's
+ 7051: Cusack
+ 7054: ladyship's
+ 7059: Horner
+ 7062: Cusack
+ 7071: Christ's
+ 7076: Horner
+ 7087: Horner
+ 7093: Oakshott
+ 7103: Maudsley
+ 7104: Pentonville
+ 7108: Kilburn
+ 7121: Kilburn
+ 7136: Jem's
+ 7149: huffed
+ 7158: Kilburn
+ 7168: dealer's
+ 7170: dealer's
+ 7181: Breckinridge
+ 7191: Holmes'
+ 7206: Horner
+ 7231: Roylotts
+ 7240: Grimesby
+ 7240: Roylott
+ 7324: Farintosh
+ 7336: Farintosh
+ 7361: Roylotts
+ 7385: Roylott
+ 7390: Roylott
+ 7394: Roylott
+ 7402: Roylott
+ 7407: stepfather's
+ 7439: Honoria
+ 7439: Westphail
+ 7459: Roylott's
+ 7466: Roylott
+ 7566: Roylott's
+ 7609: Armitage
+ 7609: Armitage
+ 7610: Armitage
+ 7632: Roylott
+ 7702: stepdaughter's
+ 7731: fleshless
+ 7739: Grimesby
+ 7739: Roylott
+ 7791: Doctors'
+ 7808: morning's
+ 7815: Eley's
+ 7816: pokers
+ 7842: Grimesby
+ 7842: Roylott
+ 7869: Roylott
+ 7890: blotched
+ 7902: outsides
+ 7906: Roylott's
+ 7946: counterpaned
+ 8005: ventilators
+ 8009: Grimesby
+ 8009: Roylott's
+ 8019: stepfather's
+ 8110: pity's
+ 8120: Roylott
+ 8129: Grimesby
+ 8129: Roylott
+ 8170: Roylott's
+ 8173: coroner's
+ 8205: goodness'
+ 8226: unrepaired
+ 8244: Holmes'
+ 8319: Roylott's
+ 8329: Grimesby
+ 8329: Roylott
+ 8358: Grimesby
+ 8358: Roylott
+ 8421: snakish
+ 8423: Grimesby
+ 8423: Roylott's
+ 8433: Hatherley's
+ 8434: Warburton's
+ 8455: Paddington
+ 8463: Paddington
+ 8477: dooties
+ 8493: Paddington
+ 8498: Hatherley
+ 8511: caraffe
+ 8608: dottles
+ 8611: rashers
+ 8617: Hatherley
+ 8635: Venner
+ 8636: Matheson
+ 8654: Stark'
+ 8665: Hatherley
+ 8666: Hatherley
+ 8713: fleshless
+ 8738: Eyford
+ 8740: Paddington
+ 8750: Eyford
+ 8783: fuller's
+ 8790: fuller's
+ 8812: Eyford
+ 8816: fuller's
+ 8822: Hatherley
+ 8824: Eyford
+ 8834: intrusted
+ 8840: fuller's
+ 8843: Paddington
+ 8847: Eyford
+ 8932: Eyford
+ 8999: fuller's
+ 9012: blotches
+ 9040: whishing
+ 9050: fuller's
+ 9063: fuller's
+ 9208: Hayling
+ 9223: Eyford
+ 9228: Bradstreet
+ 9229: Bradstreet
+ 9230: Eyford
+ 9252: Bradstreet
+ 9282: Hatherley
+ 9288: Bradstreet
+ 9292: coiners
+ 9305: Eyford
+ 9309: Bradstreet
+ 9321: Becher's
+ 9323: Becher
+ 9326: Becher
+ 9339: Hatherley
+ 9351: Holmes'
+ 9356: Holmes'
+ 9413: Jezail
+ 9471: Lestrade
+ 9518: Hatty
+ 9519: Doran
+ 9519: Aloysius
+ 9519: Doran
+ 9535: Hatty
+ 9536: Doran
+ 9537: Doran
+ 9538: Westbury
+ 9544: Birchmoor
+ 9556: Aloysius
+ 9556: Doran
+ 9559: Petersfield
+ 9600: Aloysius
+ 9600: Doran
+ 9601: Eustace
+ 9604: Aloysius
+ 9604: Doran
+ 9620: Aloysius
+ 9620: Doran
+ 9641: danseuse
+ 9713: Hatty
+ 9713: Doran
+ 9782: Doran
+ 9872: Doran's
+ 9888: Doran's
+ 9902: Lestrade
+ 9903: decoyed
+ 9970: Thoreau's
+ 9978: Lestrade
+ 9978: Lestrade
+10017: Lestrade
+10050: Lestrade
+10061: decoyed
+10068: Lestrade
+10078: Lestrade
+10089: Lestrade
+10097: Lestrade
+10103: Lestrade
+10108: Lestrade
+10119: confectioner's
+10124: pâté
+10216: McQuire's
+10239: miners'
+10240: Frank's
+10350: Lestrade
+10371: Simon's
+10375: miners'
+10383: Lestrade
+10391: eightpence
+10462: resounded
+10575: imbedded
+10577: beryls
+10604: beryls
+10622: Bankers'
+10628: Streatham
+10652: sterner
+10667: Burnwell
+10670: Burnwell
+10794: beryls
+10825: Arthur's
+10851: beryls
+10880: Arthur's
+10880: Burnwell
+10920: Arthur's
+10953: Streatham
+10960: banker's
+10962: Holmes'
+10979: tradesmen's
+10983: tradesmen's
+11092: Holmes'
+11104: banker's
+11123: jeweller's
+11161: footmarks
+11228: Streatham
+11349: Burnwell
+11371: footmarks
+11379: servants'
+11406: Burnwell
+11435: tradesmen's
+11497: Burnwell
+11509: Streatham
+11544: Burnwell
+11550: BEECHES
+11560: célèbres
+11619: unobservant
+11659: plover's
+11685: Westaway's
+11687: Westaway
+11688: Stoper
+11694: Stoper
+11699: Stoper
+11756: Beeches
+11783: faddy
+11784: faddy
+11807: ladies'
+11808: ladies'
+11815: Stoper
+11825: Stoper
+11848: Beeches
+11849: Stoper
+11869: JEPHRO
+11869: RUCASTLE
+11890: Rucastle
+11925: Rucastle
+11978: acetones
+11990: steadings
+12057: Rucastle
+12064: Rucastle
+12071: Rucastle
+12072: Beeches
+12080: Southerton's
+12080: beeches
+12086: Rucastle
+12093: Rucastle
+12099: Rucastle
+12130: Rucastle
+12132: Rucastle
+12137: Beeches
+12138: Rucastle
+12153: Rucastle
+12159: Rucastle
+12163: Rucastle
+12165: Rucastle
+12173: répertoire
+12197: railings
+12198: Rucastle
+12218: Rucastle
+12229: Beeches
+12229: Rucastle
+12234: Rucastle
+12246: goodness'
+12256: beeches
+12286: Rucastles
+12294: Tollers
+12295: Rucastle
+12308: Rucastle
+12340: Rucastle
+12345: Rucastle
+12350: unpapered
+12351: uncarpeted
+12360: barricaded
+12372: Rucastle
+12384: overdid
+12406: again'
+12430: Rucastle
+12443: Rucastle
+12446: Rucastles
+12461: Beeches
+12462: Rucastles
+12475: Rucastle
+12481: fiancé
+12484: Rucastle
+12497: cruelty's
+12513: Beeches
+12524: Rucastle's
+12535: Holmes'
+12549: Hunter's
+12560: Rucastles
+12599: Rucastle's
+12611: Rucastle
+12625: ha'
+12627: Alice's
+12636: Rucastle's
+12642: death's
+12649: Rucastle
+12675: Rucastle
+12681: beeches
+12681: Rucastle
+12684: Rucastle's
+12685: Rucastle
+12698: EBOOK
+12700: advsh
+12700: txt
+12700: advsh
+12701: eBooks
+12701: advsh
+12701: txt
+12702: advsh
+12702: txt
+12704: eBooks
+12707: eBooks
+12709: eBooks
+12716: eBooks
+12722: http
+12723: http
+12723: pg
+12727: eBooks
+12730: eBook
+12736: http
+12736: ibiblio
+12736: etext
+12737: ibiblio
+12737: docs
+12737: etext
+12739: etext
+12749: eBook
+12754: eBooks
+12755: eBooks
+12757: eBooks
+12759: eBooks
+12765: eBooks
+12823: PMB
+12841: http
+12841: html
+12849: <hart
+12849: com>
+12861: EBOOKS
+12864: eBook
+12868: eBook
+12870: EBOOK
+12872: eBook
+12874: eBook
+12876: eBook
+12879: EBOOKS
+12880: eBook
+12880: eBooks
+12887: eBook
+12893: eBooks
+12895: eBooks
+12900: eBook
+12906: eBook
+12906: eBook
+12914: eBook
+12924: EBOOK
+12926: EBOOK
+12941: eBook
+12942: eBook
+12946: eBook
+12953: eBook
+12954: eBook
+12960: eBook
+12963: ~
+12968: eBook
+12970: eBook
+12976: eBook
+12979: eBook
+13006: eBook's
+13009: eBooks
+13013: EBOOKS
+
+***************************************************************
+TOTAL WORDS MISSPELLED: 764
+TOTAL WORDS IN DICTIONARY: 143092
+VALID WORDS IN TEXT: 107301
+***************************************************************
+
+***************************************************************
+LOAD TIME: 0.094766
+CHECK TIME: 0.029230
+UNLOAD TIME: 0.544600
+***************************************************************
